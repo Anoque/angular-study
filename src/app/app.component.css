@@ -1,0 +1,13 @@
+.blue {
+  background: #999999;
+  color: #ffffff;
+  max-width: 500px;
+  -webkit-transition: 0.1s all linear;
+  -moz-transition: 0.1s all linear;
+  -o-transition: 0.1s all linear;
+  transition: 0.1s all linear;
+}
+
+.blue:hover {
+  background: #7777ff;
+}
